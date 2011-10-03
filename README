@@ -1,0 +1,7 @@
+Simple vertical/horizontal collapsible Panel for Flex 3
+Usage:
+<containers:OpCollapsiblePanel height="100%" width="290" title="Collapsible Panel" collapseOrientation="right">
+
+</containers:OpCollapsiblePanel>
+    
+
